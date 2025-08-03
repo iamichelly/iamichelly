@@ -4,7 +4,7 @@ I'm a computer engineering student and passionate about interface design.
 
 ### 💻 Currently learning  
 - Java • JavaScript • HTML • CSS  
-- Data structures • UI/UX fundamentals
+- Data structures 
 
 ### 🧩 Experience  
 - UI/UX Designer at XP Energy (startup)  
